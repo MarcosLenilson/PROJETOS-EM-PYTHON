@@ -22,6 +22,7 @@
 [![PYAUTOGUI](https://img.shields.io/badge/pyautogui%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=14FF22)](https://pyautogui.readthedocs.io/en/latest/)
 [![Pysimplegui](https://img.shields.io/badge/Pysimplegui%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=DBB70D)](https://pyautogui.readthedocs.io/en/latest/)
 [![TKINTER](https://img.shields.io/badge/TKINTER%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=2FA4E7)](https://docs.python.org/pt-br/3/library/tkinter.html#module-tkinter)
+[![DASH](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)](https://docs.python.org/pt-br/3/library/tkinter.html#module-tkinter)
 <br>
 
 ---
@@ -50,4 +51,14 @@
         <td>03</td>
         <td><a href='https://github.com/MarcosLenilson/PROJETOS-EM-PYTHON/tree/main/Sistema%20Pizzaria'>Sistema Cotação de Moedas</a></td>
         <td>TKinter</td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td><a href='https://github.com/MarcosLenilson/PROJETOS-EM-PYTHON/tree/main/Sistema%20Pizzaria'>Tela de Login Melhorada</a></td>
+        <td>tkinter</td>
+    </tr>
+    <tr>
+        <td>05</td>
+        <td><a href='https://github.com/MarcosLenilson/PROJETOS-EM-PYTHON/tree/main/Sistema%20Pizzaria'>Dashboard</a></td>
+        <td>Dash</td>
     </tr>
